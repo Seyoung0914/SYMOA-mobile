@@ -1,0 +1,53 @@
+[
+  {
+    "id": "526915e3-4359-41ee-96ce-6b2a99615749",
+    "status": "ERRORED",
+    "platform": "ANDROID",
+    "error": {
+      "errorCode": "EAS_BUILD_UNKNOWN_GRADLE_ERROR",
+      "message": "Gradle build failed with unknown error. See logs for the \"Run gradlew\" phase for more information."
+    },
+    "artifacts": {},
+    "fingerprint": {
+      "id": "019cd226-fdbc-7601-bc2a-a69d1796e5f7",
+      "hash": "bde2d4add10ae6558a0f286c7f4e53113b8eb03c"
+    },
+    "initiatingActor": {
+      "id": "245bd225-2e97-44d6-81dd-515cca2faf45",
+      "displayName": "codingbanana"
+    },
+    "logFiles": [
+      "https://job-logs.eascdn.net/production/526915e3-4359-41ee-96ce-6b2a99615749/1773053380920-78c84c24-5dc9-4588-a28b-cf1303ae1fda.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260309%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260309T110632Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=ca5969cdc1f16a157f08b704189407e6183a6f4f64119cf6181e425cc4d4797e80dfa971127029848a64d571f6fd254d46c1442114ecc736cba92f4099f0753a09d847a2e739f9da26872f40a22b210d4717cf75ce8cb24bef7aea45fc20353c4ca58b8bbfe66dc9d6db0e0c2272803689250af9b22c4a622ff69925d628022c9d34f704da6b738398d50e7b6e3c25e6bc5558350cf073af5ad3d45ba0d6f845285fc4ad29d876ce28b26dc4643e29c34860c07f50f9cc506f8e909e225689b0d743f5e50d1a6e09e93255441b8aeb9fa349f3543a8132dafa36be4b5775d70e749765f5fb5498b0c160c4b666cf7c9ac9c162486c3883613f87609c761567b6",
+      "https://job-logs.eascdn.net/production/526915e3-4359-41ee-96ce-6b2a99615749/1773053384716-6fa0b2a6-9cd6-4689-a5a3-49434fb94ed5.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260309%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260309T110632Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=8e4267dda273e2e62d5ff7019a13ca5f77de77a04f5b2c37c38b6b9fc3830a9a0bea0a8a9dccf62a4ccf2128cea895dc44cd99c004cb313fcea394d5939adaef6178b503f6e2d825fc097b9c5b9932122bdf39ddd5ab98f0ac97f5d26ea18d6985ae4942367bc87cbab4f7e67a1ff4584a5eabd636d4566180eeee8926a9b6b49188faf8da5c27a791f43c9da1cc48008d702540e4ca773afd01617cc220a007ca0514e0d31847547e88283552a1c6b0c38f1cafa596cf18d2409aaebda53a98402b4d2c6666caa3a3f43e3bc8fcb44b526b60ce0309d2969b3e70a085dda2b55fc06d96df8318d2055d61b5c45b213a8491e2d6fe6243e633005e67d5d98b76",
+      "https://job-logs.eascdn.net/production/526915e3-4359-41ee-96ce-6b2a99615749/1773053384932-ae8167ea-3e6b-4e02-9a00-8309dfddc22c.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260309%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260309T110632Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=3f053c6a0d24c8969b27cfb6f5d145a9b442d806848fed9c5f2d940e034ca293a37a05994da93092dbc56418d54d2fa151d1b557482a7a011cc34bb2b8b80600ae389b819d38949e947c8975eea7cb2d3758dbcc1fe65ac6d11a45bc10c5dbf56106d44a743c60c8b361756bf6fab8382a5745c664dff624e267342ac71126874e3c9bcb0c004404c0220bd91e004ab98cf973895e990cdcb1d4a6065ac02a1120029b4e38bfef6e75ff61b0b17ec995f54ec1aa8c91cf4efb1648271f8b0796a71b9fad1d06f78ae7eea8e4966dc797f1c8694a1fee7ada513f097a9246d6dcec1c4dbe786b0e85deb16bd45eda3cb27ba5aa5f3926cd0b8af7164b6ff241be",
+      "https://job-logs.eascdn.net/production/526915e3-4359-41ee-96ce-6b2a99615749/1773053385101-2b747416-9267-40a7-89be-fd1ff6155694.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260309%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260309T110632Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=75292cb74ab3288da25af4ace53a3cc88178eaf7a8b7606d8c033544101e126ceab86c62f56f51d1f4a85db59c2a3a2b3f9af5fae3ae224029669bdffc5d33bf84d20eee70e73ce9e701d180da1265795d8285ea37918e6d996393f05583de5f0b583ef9c0bffdb7ccf7b64b49792924ffc5a3a044f870336561469a004369fbd32186de427da256dc5359cb352abf1c7aa93977140c527b5dfb4942216faa2bb4c27cf02996a310251ca4083e802688c28cd20ef466d61bfe0ccbb98478c8e8027a481cb50c4e86fd3680af01f2312e6ad92f7c1443e688b5997ebb59849fe77bbcafc8ae84b429fe4885e0f2d252d4016448a0b4d7cc1ea3d013b8b27f6a6e"
+    ],
+    "project": {
+      "id": "779b7e3e-b956-4af1-9ed6-106b1bb83f84",
+      "name": "SyncNote",
+      "slug": "syncstick",
+      "ownerAccount": {
+        "id": "f60e93ff-d896-4d06-b628-eedc5b26fa18",
+        "name": "codingbananas-organization"
+      }
+    },
+    "distribution": "INTERNAL",
+    "buildProfile": "preview",
+    "sdkVersion": "54.0.0",
+    "appVersion": "1.0.0",
+    "appBuildVersion": "1",
+    "gitCommitHash": "b2304afdfdf3297c2cf5e77a53d18e9f90c879f1",
+    "gitCommitMessage": "initial commit",
+    "priority": "NORMAL_PLUS",
+    "createdAt": "2026-03-09T10:49:40.694Z",
+    "updatedAt": "2026-03-09T10:53:20.868Z",
+    "completedAt": "2026-03-09T10:53:10.758Z",
+    "expirationDate": "2026-03-23T10:49:40.726Z",
+    "isForIosSimulator": false,
+    "metrics": {
+      "buildWaitTime": 108,
+      "buildQueueTime": 48972,
+      "buildDuration": 160711
+    }
+  }
+]

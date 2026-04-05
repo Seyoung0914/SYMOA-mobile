@@ -1,0 +1,26 @@
+{
+    "cli": {
+        "version": ">= 14.1.0",
+        "appVersionSource": "remote"
+    },
+    "build": {
+        "development": {
+            "developmentClient": true,
+            "distribution": "internal"
+        },
+        "preview": {
+            "distribution": "internal",
+            "android": {
+                "buildType": "apk"
+            },
+            "env": {
+                "EXPO_PUBLIC_SUPABASE_URL": "https://kysqdcsxhxouxngnvcaw.supabase.co",
+                "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_TKl55IR-2fSIESAGsB5k7g_i9aHgMkb"
+            }
+        },
+        "production": {}
+    },
+    "submit": {
+        "production": {}
+    }
+}
